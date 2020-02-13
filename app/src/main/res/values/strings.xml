@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="text_box_label">Hello TJ</string>
+    <string name="name_hint">What is your name?</string>
+    <string name="color_hint">State your favorite number?</string>
+    <string name="click_button">Start Quiz</string>
+    <string name="time">Time: %1$d</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="returnValue">return</string>
+    <string name="text_box2_label">Name</string>
+    <string name="quiz">Quiz!</string>
+    <string name="time_left">Time Left: %1$d</string>
+    <string name="cornerbox1">CornerBox1</string>
+    <string name="cornerbox2">CornerBox2</string>
+    <string name="cornerbox3">CornerBox3</string>
+    <string name="cornerbox4">CornerBox4</string>
+    <string name="seekBarLabel">Font Size</string>
+    <string-array name="textArray">
+        <item> Hi Mom! </item>
+        <item> Hi Dad! </item>
+        <item> Hello </item>
+    </string-array>
+</resources>
